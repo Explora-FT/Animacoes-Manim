@@ -30,6 +30,18 @@
             "caminho": "Número\\ e/euler.py",
             "lista_concat": "Número\\ e/list_e",
             "num_scenes": 5
+        },
+        {
+            "nome": "Número_PI",
+            "caminho": "Número\\ PI/PI.py",
+            "lista_concat": "Número\\ PI/list_pi",
+            "num_scenes": 6
+        },
+        {
+            "nome": "Número_sqrt2",
+            "caminho": "Número\\ sqrt2/sqrt2.py",
+            "lista_concat": "Número\\ sqrt2/list_sqrt2",
+            "num_scenes": 5
         }
     ]
 }
