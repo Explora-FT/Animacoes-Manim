@@ -98,6 +98,3 @@ if ans == 0:
         render(index_video, resolucao)
 else:
     render(index_video, resolucao)
-
-## TODO
-# não funciona com resoluções diferentes das usadas nas listas

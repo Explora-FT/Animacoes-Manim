@@ -453,9 +453,3 @@ class Fechamento(Scene):
         self.wait(0.8)
         self.play(FadeIn(autor))
         self.wait(2)
-############################################
-############################################
-
-# TODO
-# Colocar gráfico antes
-# Terminar outros ajustes [2, 4, 6]
